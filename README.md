@@ -19,6 +19,6 @@ This project contains several Python functions and a class, each solving a speci
 ## How to Run
 
 1. Make sure you have Python 3 installed on your machine.
-2. Run the following command `python pyfundamentals.py` to run the test in windows and `python3 pyfundamentals.py` in linux systems
+2. Run the following command `python pyfundamentals.py` to run the test in windows terminal and `python3 pyfundamentals.py` in linux systems terminal
 3. To work with different values, edit the test block with the desired values
 4. To test specific functions comment the other function calls in the test block
